@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - spaceship
+  - asteroid
+  - enemy
+  - bullet
+  - boundary
+  - enemybullet
+  - blackhole
+  - Boundary
+  - ace
+  - destroyer
+  - boss
+  - bossNormalPos
+  - magic
+  - healthPickUp
+  - BulletBoundary
+  - powerUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 225270745
+    locked: 0
+  - name: Foreground
+    uniqueID: 1550589887
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FarWing
+    uniqueID: 2739480371
+    locked: 0
+  - name: PlayerBody
+    uniqueID: 3973144099
+    locked: 0
+  - name: CloseWing
+    uniqueID: 3735090177
+    locked: 0
+  - name: Effect
+    uniqueID: 2854696343
+    locked: 0
